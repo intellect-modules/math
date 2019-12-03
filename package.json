@@ -6,11 +6,11 @@
 	"contributors": [
 		{ "name": "Makis Tracend", "email": "makis@makesit.es" }
 	],
-	"homepage": "http://github.com/makesites/intellect",
+	"homepage": "https://github.com/intellect-modules/math",
 	"keywords": ["math", "intellect", "api", "json"],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/makesites/intellect.git"
+		"url": "git://github.com/intellect-modules/math.git"
 	},
 	"engines": { "node": ">=10.x.x" },
 	"main": "index",
